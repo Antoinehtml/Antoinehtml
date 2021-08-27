@@ -15,6 +15,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoinehtml&theme=yeblu&hide=html)](https://github.com/AyraStelmaszewski/Welcome)
 
 <p align="center">
+  <b>Let's connect and chat !</b><br>
   <a href="https://www.instagram.com/antoinehtml/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
