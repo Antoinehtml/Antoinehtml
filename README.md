@@ -1,7 +1,7 @@
 ### Hello GitHub 👋
 
 
-## My name is Antoine and I'm currently learning Web Development in order to become a Full-Stack Dev 🔭
+#### My name is Antoine and I'm currently learning Web Development in order to become a Full-Stack Dev 🔭
 <!--
 **Antoinehtml/Antoinehtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
