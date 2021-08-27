@@ -5,9 +5,9 @@
 ***
 <br>
 
-- 🌱  I’m following a Bootcamp *@BeCode*, Brussels.
-- 📫  Reach me: antoinecoulon@hotmail.com
-- ⚡  Funny story : I actually left the Banking sector to do what I really like 👊
+- 🌱  &nbsp I’m following a Bootcamp *@BeCode*, Brussels.
+- 📫  &nbsp Reach me: antoinecoulon@hotmail.com
+- ⚡  &nbsp Funny story : I actually left the Banking sector to do what I really like 👊
 
 <br>
 
