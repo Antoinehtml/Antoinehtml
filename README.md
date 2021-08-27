@@ -1,7 +1,9 @@
 ### Hello GitHub 👋
 
 
-=My name is **Antoine** and I'm currently learning Web Development in order to become a Full-Stack Dev 🔭
+####My name is **Antoine** and I'm currently learning Web Development in order to become a Full-Stack Dev 🔭
+
+== Work order
 
 - 🌱 I’m following a Bootcamp *@BeCode*, Brussels.
 - 📫 Reach me: antoinecoulon@hotmail.com
