@@ -2,21 +2,14 @@
 
 
 #### My name is Antoine and I'm currently learning Web Development in order to become a Full-Stack Dev 🔭
-<!--
-**Antoinehtml/Antoinehtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m following a Bootcamp @BeCode, Brussels.
+<br>
+- 📫 Reach me: antoinecoulon@hotmail.com
+<br>
+- ⚡ Funny story : I actually left the Banking sector to do what I really like 👊
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoinehtml&theme=yeblu&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoinehtml&theme=synthwave&hide=html)](https://github.com/AyraStelmaszewski/Welcome)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoinehtml&theme=yeblu&hide=html)](https://github.com/AyraStelmaszewski/Welcome)
 
