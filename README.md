@@ -2,7 +2,7 @@
 
 
 #### My name is **Antoine** and I'm currently learning Web Development in order to become a Full-Stack Dev 🔭
-
+***
 <br>
 
 - 🌱 I’m following a Bootcamp *@BeCode*, Brussels.
@@ -16,4 +16,5 @@
 
 Let's connect and chat !
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")
+
