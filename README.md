@@ -14,6 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoinehtml&theme=yeblu&show_icons=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoinehtml&theme=yeblu&hide=html)](https://github.com/AyraStelmaszewski/Welcome)
 
+<center>
 Let's connect and chat !
 
 <a href="https://www.instagram.com/antoinehtml/" target="_blank">
@@ -25,3 +26,4 @@ Let's connect and chat !
 <a href="https://www.linkedin.com/in/coulon-antoine/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</center>
