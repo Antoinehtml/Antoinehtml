@@ -2,7 +2,7 @@
 
 
 #### My name's **Antoine** and I'm currently learning Web Development in order to become a Full-Stack Dev 🔭
-##### *I do have an affenity for Front-End* 🎨
+##### *I do have an affenity for Front-End* 🎨✨
 ***
 <br>
 
