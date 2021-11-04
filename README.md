@@ -1,8 +1,8 @@
 ### Hello GitHub 👋
 
 
-#### My name's **Antoine** and I'm currently learning Web Development in order to become a Full-Stack Dev 🔭
-##### *I do have an affinity for Front-End* 🎨✨
+#### My name's **Antoine** and I'm currently learning Web Development in order to become a Creative Dev 🔭
+##### *Discovering ThreeJS* 🎨✨
 ***
 <br>
 
