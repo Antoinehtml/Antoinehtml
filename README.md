@@ -8,7 +8,7 @@ I'm looking to learn more about creative development and everything that it invo
 <br>
 
 - 🌱  &nbsp; I followed a Bootcamp *@BeCode*, Brussels.
-- 📫  &nbsp; Reach me: antoinecoulon@hotmail.com
+- 📫  &nbsp; Reach me: hello@antoine-coulon.com
 - 💻  &nbsp; www.antoine-coulon.com
 - ⚡  &nbsp; Funny story : I actually left the Banking sector to do what I really like 👊
 
