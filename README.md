@@ -1,7 +1,8 @@
 ### Hello GitHub 👋
 
 
-#### My name's **Antoine** and I'm currently learning Web Development in order to become a Creative Dev 🔭
+#### My name's **Antoine** am I'm passionate about art, music & design.
+I'm looking to learn more about creative development and everything that it involves. I trully love ergononmy, motions & animations. 🔭
 ##### *Discovering ThreeJS* 🎨✨
 ***
 <br>
